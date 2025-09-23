@@ -26,6 +26,7 @@ mkdir data
 
 Then download and structure your datasets according to the instructions provided in the [CoOp](https://github.dev/KaiyangZhou/CoOp)
 official repository. All the `8` datasets should be present in the `data/` directory.
+Run the `generate_clip_pseudo_labels.py` and `generate_qwen_pseudo_labels.py` to generate the privacy-masked labels.
 
 
 ## Experiments
