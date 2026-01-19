@@ -1,6 +1,6 @@
 # Privacy-Masked Label Learning: Preventing Sensitive Content Leakage in LVLMs Annotation
 
-This is the official repository for our paper "Preventing Privacy Leakage in Vision-Language Models: A Secure Framework for Large-Scale Image Classification"
+This is the official repository for our paper "Privacy-Masked Label Learning: Preventing Sensitive Content Leakage in LVLMs Annotation"
 
 
 ## Installation
